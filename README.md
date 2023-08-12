@@ -1,5 +1,6 @@
 ## Animals
 
-1. [Giraffe](https://en.wikipedia.org/wiki/Giraffe)
-2. [Gorilla](https://en.wikipedia.org/wiki/Gorilla)
-3. [Panda](https://en.wikipedia.org/wiki/Giant_panda)
+1. [Giraffe](giraffe.md)
+2. [Gorilla](gorilla.md)
+3. [Panda](panda.md)
+4. [Elephant](elephant.md)
